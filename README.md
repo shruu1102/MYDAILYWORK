@@ -10,8 +10,8 @@ Game starts with asking the user to enter the level of difficulty:
 3 for difficult!
 
 Then after choosing the level of difficulty , user will get some chances based on the level they selected to guess that secret number.
-The number of chances user gets for easy level : 10
-for medium level: 7
-for difficult level:5
+The number of chances user gets for easy level : 10;
+for medium level: 7;
+for difficult level:5;
 
 
